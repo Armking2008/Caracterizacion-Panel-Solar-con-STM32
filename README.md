@@ -120,8 +120,6 @@ PWM → Control del convertidor Buck
 
 - KiCad
 - STM32CubeIDE
-- LTspice
-- GitHub
 
 ---
 
