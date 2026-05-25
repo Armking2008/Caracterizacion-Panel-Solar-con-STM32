@@ -89,8 +89,8 @@ PWM → Control del convertidor Buck
 ## Software utilizado
 
 - KiCad
-- STM32CubeIDE
-
+- PLECS 4.9.5
+  
 ---
 
 ## Resultados esperados
