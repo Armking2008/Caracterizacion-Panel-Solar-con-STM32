@@ -56,17 +56,6 @@ Acción:
 
 - Desactivar MOSFET
 
-### Temperatura
-
-Condición:
-
-T > 80°C
-
-Acción:
-
-- Reducir duty cycle
-- Apagar sistema
-
 ### Bajo voltaje
 
 Condición:
@@ -92,8 +81,6 @@ ADC1 → Voltaje del panel
 ADC2 → Corriente del panel
 
 ADC3 → Voltaje de salida
-
-ADC4 → Temperatura
 
 PWM → Control del convertidor Buck
 
