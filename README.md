@@ -20,7 +20,6 @@ Diseñar e implementar un sistema de conversión DC-DC tipo Buck alimentado medi
 - Diseñar una fuente auxiliar de 5V.
 - Implementar protecciones mediante STM32.
 - Diseñar el esquema eléctrico y PCB en KiCad.
-- Documentar el proyecto mediante GitHub.
 
 ---
 
@@ -31,22 +30,6 @@ Diseñar e implementar un sistema de conversión DC-DC tipo Buck alimentado medi
 | Voltaje máxima potencia | 44.6V |
 | Corriente máxima potencia | 10.09A |
 | Potencia máxima | 450W |
-
----
-
-## Arquitectura del sistema
-
-Panel Solar (45V,10A,450W)
-↓
-Fuente Buck auxiliar (45V→5V)
-↓
-STM32
-↓
-Driver MOSFET
-↓
-Buck principal
-↓
-Carga
 
 ---
 
